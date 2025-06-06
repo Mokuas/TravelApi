@@ -1,0 +1,36 @@
+# Rider
+.idea/
+*.sln.iml
+
+# Build outputs
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# dotnet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Secrets
+secrets.json
+
+# VS Code
+.vscode/
+
+# Optional: publish output
+wwwroot/
